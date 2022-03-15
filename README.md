@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @vishal-ramani-toptal Full-Stack web developer with 10+ years of experience.
+- 👀 I’m interested in challenging projects.
+- 🌱 I’m currently learning emerging technologies.
+- 💞️ I’m looking to collaborate on creative projects.
+- 📫 Feel free to connect over vishal.ramani@toptal.com / vishalramani91@gmail.com
